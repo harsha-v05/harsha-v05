@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Harsha Veeresh here !!!<br>3rd year undergrad <br>computers major<br>passionate about cybersecurity and software development
 
 
